@@ -1,3 +1,4 @@
+// NOTE: I now have a separate branch called "ChipInformation" where I should place the Chip Number Information before moving it to the "master" branch.
 console.log("Welcome to ChpFldr!");
 console.log("This is YOUR MegaMan Battle Network Chip Folder and guide!");
 console.log("By @JwBZx");
